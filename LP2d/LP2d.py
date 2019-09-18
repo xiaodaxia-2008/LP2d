@@ -1,5 +1,4 @@
 import cffi
-import numpy as np
 from _LP2d import ffi
 from _LP2d.lib import linprog2d_solve_simple, LP2D_EDGE, LP2D_POINT, LP2D_INFEASIBLE, LP2D_UNBOUNDED, LP2D_ERROR
 
